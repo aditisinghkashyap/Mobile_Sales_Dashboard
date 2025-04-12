@@ -1,10 +1,23 @@
-# 📊 Mobile Sales Dashboard - Power BI Project
+# 📊 Mobile Sales Dashboard - Power BI Project(Interactive)
 
 This project showcases a **comprehensive Power BI dashboard** built to analyze and visualize mobile phone sales data. It provides a detailed insight into sales trends, transaction details, pricing patterns, and model-wise performance across different time frames and regions.
 
 ---
 
 ## 📌 Project Highlights
+
+
+- 📈 **Total Sales**, **Profit**, and **Quantity Sold** are displayed at a glance.
+- 🕹️ **Slicers** included for:
+  - **Region**
+  - **Segment**
+  - **Category**
+  - **Year**
+- 📊 Dynamic visualizations update in real-time based on slicer selection.
+- 🌎 Sales trends shown across regions with map visuals.
+- 📅 Year-wise comparison of performance metrics.
+- 🔎 Drill-down capability for detailed analysis by product or region.
+
 
 ### 1. **Dashboard Overview**
 - **Total Sales:** ₹769M+
