@@ -3,6 +3,7 @@
 This project showcases a **comprehensive Power BI dashboard** built to analyze and visualize mobile phone sales data. It provides a detailed insight into sales trends, transaction details, pricing patterns, and model-wise performance across different time frames and regions.
 
 ---
+![Dashboard Preview](https://drive.google.com/thumbnail?id=17IeUvwY-8DCTHbAi6dtW0PN1UKsWJPgF)
 
 ## 📌 Project Highlights
 
